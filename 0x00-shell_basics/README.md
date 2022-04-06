@@ -1,4 +1,4 @@
-SHELL BASICS
+# SHELL BASICS
 
 In this proyect you learn some abaut Shell
 
@@ -21,3 +21,29 @@ In this proyect you learn some abaut Shell
 | cp | Copy files |
 
 If you try execute all files in this proyect you can see what do this do, and a correct output of all files
+
+# Outputs
+
+### pwd 
+
+<pre><code>$ ./0-current_working_directory
+/0x00-shell_basics
+$</code></pre>
+
+### ls
+
+<pre><code>$ ./1-listit
+Applications    Documents   Dropbox Movies Pictures
+Desktop Downloads   Library Music Public
+$</code></pre>
+
+### cd
+
+<pre><code> julien@ubuntu:/tmp$ pwd
+/tmp
+julien@ubuntu:/tmp$ echo $HOME
+/home/julien
+julien@ubuntu:/tmp$ source ./2-bring_me_home
+julien@ubuntu:~$ pwd
+/home/julien
+julien@ubuntu:~$ </code></pre>
