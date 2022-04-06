@@ -1,4 +1,4 @@
-#Shell, basics
+SHELL BASICS
 
 In this proyect you learn some abaut Shell
 
