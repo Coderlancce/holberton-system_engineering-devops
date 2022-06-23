@@ -4,6 +4,6 @@ i=0
 TEXT="Best School"
 until [ $i -eq 10 ]
 do
-	echo $TEXT
+	echo "$TEXT"
 	i=$((i + 1))
 done
